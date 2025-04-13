@@ -1,0 +1,20 @@
+---
+title: "About Me Junze Tan"
+format: html
+---
+
+# Hello! 👋
+
+I'm Junze Tan, a Business Analytics major graduate student at BU aspiring to work as a business analyst.
+
+I am passionate about using analytical tools such as R, Python and SQL to tackle business analytics problems.
+
+My goal is to become an insightful business analyst who is good at handling data and building visualization dashboards. 
+
+This website is a showcase of my work and how to get in touch.
+
+Feel free to explore!
+
+![Welcome Picture](images/welcome.jpg){width=500px}
+
+
