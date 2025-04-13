@@ -1,11 +1,9 @@
 ---
 title: "Junze Tan's Website"
-format: html
-page-layout: full
 ---
 
 This is a Quarto website created by Junze Tan for the purpose of AD688 at MET BU.
 
 This website contains personal portfolio information. Welcome!
 
-![Website Portfolio](images/welcome portfolio.jpg){width=500px}
+![Website Portfolio](images/welcome-portfolio.jpg){width=500px}
