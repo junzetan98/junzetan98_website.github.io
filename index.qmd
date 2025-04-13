@@ -1,7 +1,9 @@
 ---
-title: "my-website"
+title: "This is Junze Tan's Website"
 ---
 
-This is a Quarto website.
+This is a Quarto website created by Junze Tan for the purpose of AD688 at MET BU.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website contains personal portfolio information. Welcome!
+
+![Website Portfolio](images/welcome portfolio.jpg){width=500px}
