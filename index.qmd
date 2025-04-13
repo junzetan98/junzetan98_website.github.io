@@ -1,6 +1,7 @@
 ---
-title: "This is Junze Tan's Website"
+title: "Junze Tan's Website"
 format: html
+page-layout: full
 ---
 
 This is a Quarto website created by Junze Tan for the purpose of AD688 at MET BU.
